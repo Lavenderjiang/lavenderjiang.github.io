@@ -22,6 +22,6 @@ Interests
 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/profile_pic.png)
+![Editing a markdown file for a talk](/images/profile_pic.jpeg)
 
 
