@@ -8,20 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
-
-
-
+Hi! My name is Lavender Jiang (蒋遥). I am a third year undergraduate at Carnegie Mellon University, with majors in ECE and math. I am a research assistant for Professor [Jose Moura](https://users.ece.cmu.edu/~moura/), and I work on graph sampling and graph signal processing. 
 
 Courses
 ------
+- 18491 Digital Signal Processing
+- 21355 Real Analysis
+- 21301 Combinatorics
+- 17514 Principles of Software Construction
 
-
-Interests
-------
-
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/profile_pic.jpeg)
 
 

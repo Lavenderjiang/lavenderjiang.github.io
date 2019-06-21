@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical and Computer Engieering, with additional major in Mathematical Sciences , Carnegie Mellon University, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019 - Present: Research Assistant
+  * Moura's Research Group
+  * Work on applying graph sampling to graph convolutional neural network
+  * Supervisor: Jose Moura, John Shi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2018 - Jan 2019: Research Assistant
+  * Biorobotics Lab
+  * Wrote a modular linear Kalman filter to solve the yaw drifting problem in IMU
+  * Devloped a calibration GUI for IMU and signal GUI for proximity sensor
+  * Supervisor: Howie Choset, Changsheng Shen, Lu Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Signal Processing
+* Robotics
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José Moura. (GSP Workshop 2019)
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
