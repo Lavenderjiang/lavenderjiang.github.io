@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lavender Jiang"
   avatar           : "profile.png"
-  bio              : "Research Assistant at Carnegie Mellon University\n Major in ECE and mathematics."
+  bio              : "Research Assistant for Graph Signal Processing"
   location         : "Pittsburgh, Pennsylvania"
-  employer         : "https://www.cmu.edu/"
+  employer         : "Carnegie Mellon University"
   pubmed           : 
   googlescholar    : 
   email            : "yaoj@andrew.cmu.edu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lavenderjiang"
+  linkedin         : "lavenderjiang"
   orcid            : 
   pinterest        :
   soundcloud       :
