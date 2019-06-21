@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lavender Jiang"
   avatar           : "profile.png"
-  bio              : "Research Assistant at Carnegie Mellon University. Major in ECE and mathematics."
+  bio              : "Research Assistant at Carnegie Mellon University\n Major in ECE and mathematics."
   location         : "Pittsburgh, Pennsylvania"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
