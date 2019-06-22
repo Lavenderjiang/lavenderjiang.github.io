@@ -178,6 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -230,7 +233,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: gallery #portfolio
     values:
       layout: single
       author_profile: true
@@ -265,6 +268,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
