@@ -63,9 +63,9 @@ Skills
 
 Publications and Talks
 ======
-* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José Moura. (GSP Workshop 2019)
+* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José Moura. ([GSP Workshop](http://www.gspworkshop.org/) 2019)
 
-* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of Asilomar Conference on Signals, Systems, and Computers 2019)
+* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
 
 * "Graph Signal Processing and Deep Learning", Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (Submitted to IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
   
