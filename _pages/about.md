@@ -8,14 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Lavender Jiang (蒋遥). I am a third year undergraduate at Carnegie Mellon University, with majors in ECE and math. I am a research assistant for Professor [Jose Moura](https://users.ece.cmu.edu/~moura/), and I work on graph sampling and [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf). 
+Hi! My name is Lavender Jiang (蒋遥). I am a third year undergraduate at Carnegie Mellon University, with majors in ECE and math. I am a research assistant for Professor [José Moura](https://users.ece.cmu.edu/~moura/), and I work on graph sampling and [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf). 
 
-Courses
+Selected Courseworks
 ------
-- 18491 [Digital Signal Processing](http://course.ece.cmu.edu/~ece491/)
-- 21355 Real Analysis
-- 21301 Combinatorics
-- 17514 [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)
+- [Digital Signal Processing](http://course.ece.cmu.edu/~ece491/)
+- [Image and Video Processing](https://courses.ece.cmu.edu/18793)
+- [Real Analysis I](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/) 
+- [Algebraic Structure](https://www.math.cmu.edu/~abernsht/teaching/Fall2019/21-373/) (21-373)
+- [Combinatorics](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/) 
+- [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)
+
+Publications and Talks
+------
+- "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José Moura. ([GSP Workshop](http://www.gspworkshop.org/) 2019)
+
+- "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
+
+- "Graph Signal Processing and Deep Learning", Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (Accepted to IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
+
 
 
 

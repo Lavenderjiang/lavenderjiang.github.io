@@ -27,12 +27,12 @@ Work experience
   * Supervisor: [Howie Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/), Changsheng Shen, [Lu Li](https://www.ri.cmu.edu/ri-people/lu-li/)
 
 * Jan 2017: Winter Intern
-    * Da Jiang Innovations 
+    * [Da Jiang Innovations](https://en.wikipedia.org/wiki/DJI_(company))
     * a 10-day robotics winter camp as one of DJI's youngest interns
     * Appointed as the only female team leader. Placed first in engineering problem sets.
     * Supervisor: [Shuo Yang](https://www.linkedin.com/in/shuo-yang-28414660/)
 
-Courses
+Course Works
 ======
 * Signal Processing}
     * [Digital Signal Processing](http://course.ece.cmu.edu/~ece491/)(18-491)
@@ -48,6 +48,10 @@ Courses
     * [Principles of Functional Programming](http://www.cs.cmu.edu/~15150/) (15-150)
     * [Great Ideas in Theoretical Computer Science](http://www.cs.cmu.edu/~15251/) (15-251)
     * [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)(17-514)
+
+* Electrical Engineering
+    * [Introduction to Computer System](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f18/www/) (18-213)
+    * [Structure and Design of Digital System](https://courses.ece.cmu.edu/18240) (18-240) 
 
 * Complex Systems
     * [Introduction to Complexity](https://www.santafe.edu/engage/learn/courses/introduction-complexity)
@@ -67,6 +71,6 @@ Publications and Talks
 
 * "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
 
-* "Graph Signal Processing and Deep Learning", Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (Submitted to IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
+* "Graph Signal Processing and Deep Learning", Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (Accepted to IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
   
 
