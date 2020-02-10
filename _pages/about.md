@@ -16,7 +16,7 @@ Selected Courseworks
 - [Image and Video Processing](https://courses.ece.cmu.edu/18793)
 - [Graph Signal Processing](https://courses.ece.cmu.edu/18898D)
 - [Real Analysis I](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/) 
-- [Algebraic Structure](https://www.math.cmu.edu/~abernsht/teaching/Fall2019/21-373/) (21-373)
+- [Algebraic Structure](https://www.math.cmu.edu/~abernsht/teaching/Fall2019/21-373/) 
 - [Combinatorics](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/) 
 - [Computer Graphics](http://15462.courses.cs.cmu.edu/spring2020/home)
 - [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/)
