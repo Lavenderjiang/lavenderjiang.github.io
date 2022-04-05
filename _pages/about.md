@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Lavender Jiang (蒋遥). I am a first year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunhyun Cho](https://kyunghyuncho.me/). I work on clinical predictions using natural language processing as a medical fellow for NYU Langone Health. I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/).
 
-I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with professor [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), professor [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), professor [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
+I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
 
 <!-- 
 Selected Courseworks
