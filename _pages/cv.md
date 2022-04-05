@@ -18,7 +18,7 @@ Work experience
 ======
 * Sep 2021 - Present: PhD Student
   * Member of [OLAB](https://www.nyuolab.org/main/#home) at NYU Langone Health and [ML2](https://wp.nyu.edu/ml2/) at Center for Data Science
-  * Work on developing a natural language model for clinical predictive problems with the goal of deployment at NYU Langone Health
+  * Work on developing a natural language model for clinical predictive problems with the goal of deployment at [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health)
   * Supervisor: [Eric Oermann](https://www.nyuolab.org/main/#team), [Kyunghyun Cho](https://kyunghyuncho.me/)
   
 * Jan 2019 - June 2021: Research Assistant
