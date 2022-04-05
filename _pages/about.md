@@ -30,7 +30,7 @@ Publications and Talks
 
 - Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar, Xujin Liu, Lavender Y. Jiang, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021)
 
-- Edge Entropy(https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. Lavender Y. Jiang, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020)
+- [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. Lavender Y. Jiang, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020)
 
 - ["Graph Signal Processing and Deep Learning"](https://arxiv.org/abs/2008.01247), Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
 
