@@ -11,14 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in [Electrical and Computer Engieering](https://www.ece.cmu.edu/academics/bs-in-ece/academic-guide.html), with additional major in [Mathematical Sciences](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/#curriculatext) , Carnegie Mellon University, 2021 (expected)
+* PhD in [Data Science](https://cds.nyu.edu/phd-program/), New York Univerisity, 2026 (expected)
+* BSc in [Electrical and Computer Engieering](https://www.ece.cmu.edu/academics/bs-in-ece/academic-guide.html), with double major in [Mathematical Sciences](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/#curriculatext) , Carnegie Mellon University, 2021 
 
 Work experience
 ======
-* Jan 2019 - Present: Research Assistant
+* Sep 2021 - Present: PhD Student
+  * Member of [OLAB](https://www.nyuolab.org/main/#home) at NYU Langone Health and [ML2](https://wp.nyu.edu/ml2/) at Center for Data Science
+  * Work on developing a natural language model for clinical predictive problems with the goal of deployment at NYU Langone Health
+  * Supervisor: [Eric Oermann](https://www.nyuolab.org/main/#team), [Kyunghyun Cho](https://kyunghyuncho.me/)
+  
+* Jan 2019 - June 2021: Research Assistant
   * Moura's Research Group
   * Work on applying graph sampling to graph convolutional neural network
-  * Supervisor: [José Moura]((https://users.ece.cmu.edu/~moura/)), John Shi
+  * Supervisor: [José Moura]((https://users.ece.cmu.edu/~moura/)), [John Shi](https://ieeexplore.ieee.org/author/37086434965), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/), [Alireza Chamanzar](https://scholar.google.com/citations?user=4oxwdeEAAAAJ&hl=en)
 
 * Feb 2018 - Jan 2019: Research Assistant
   * Biorobotics Lab
@@ -66,11 +72,16 @@ Skills
 
 
 Publications and Talks
-======
-* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José Moura. ([GSP Workshop](http://www.gspworkshop.org/) 2019)
+------
+- [NYUTron]((https://www.nvidia.com/gtc/session-catalog/?search=nyutron&search=nyutron%2C+nyutron&tab.scheduledorondemand=1583520458947001NJiE#/session/1638546188662001BYW5)): Health System-scale Language Models for Clinical Operations: 30-day Readmissions. Lavender Y. Jiang, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
 
-* "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
+- Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar, Xujin Liu, Lavender Y. Jiang, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021)
 
-* "Graph Signal Processing and Deep Learning", Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (Accepted to IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
-  
+- Edge Entropy(https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. Lavender Y. Jiang, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020)
+
+- ["Graph Signal Processing and Deep Learning"](https://arxiv.org/abs/2008.01247), Mark Cheung, John Shi, Yao Jiang, Oren Wright and José Moura. (IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
+
+- "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, Yao Jiang and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
+
+
 
