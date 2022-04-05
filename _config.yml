@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lavender Jiang"
 title_separator          : "-"
 name                     : &name "Lavender Jiang"
-description              : &description "Research Assistant at Carnegie Mellon University"
+description              : &description "Data Science PhD at New York University"
 url                      : https://lavenderjiang.github.io #http://127.0.0.1:4000/ # # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://lavenderjiang.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lavender Jiang"
   avatar           : "profile.png"
-  bio              : "Research Assistant for Graph Signal Processing"
-  location         : "Pittsburgh, Pennsylvania"
-  employer         : "Carnegie Mellon University"
+  bio              : "PhD Student at NYU"
+  location         : "New York, NY"
+  employer         : "New York University"
   pubmed           : 
   googlescholar    : 
-  email            : "yaoj@andrew.cmu.edu"
+  email            : "lyj2002@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
