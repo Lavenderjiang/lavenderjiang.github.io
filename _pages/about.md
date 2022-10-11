@@ -52,3 +52,12 @@ Professional Services
 - Reviewer for [AACL-IJCNLP 2022](https://aaclweb.org/), Language Model track
 
 - Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022
+
+
+Mentorship
+------
+Fall 2022: Hongyi Zheng (NYU Math+CS+DS 23'), Tracy Zhu (NYU DS+Math 23'). Project: capturing long context in clinical notes.
+
+Summer 2022: Ming Cao (NYU DS+CS 23'), Grace Ge'er Yang (NYU Math+DS 23'). Project: evaluating token-level sensitivity of clinical language model.
+
+Summer 2022 (co-mentor with Chris Xujin Liu): Gavin Yang (NYU CS+DS 24'), Stephen Zhang (NYU CS+DS 23'), Lucy Wu (NYU DS+CS 23'). Project: generating structured data from unstructured clinical notes.
