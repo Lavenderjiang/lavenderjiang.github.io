@@ -34,9 +34,9 @@ Publications and Talks
 - Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction.  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (In review for ML4H 2022)
 
 - [Attention](https://app.biorender.com/illustrations/6308f27a5fc9db88d8b82422) based neural networks display 
-human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Lavender" Jiang**, Mustfa Nasir-Moin, Ayaka Hachisuka, Jonathan Shor, Yao Wang, Biyu J. He, Eric K. Oermann. Conference on Cognitive Computational Neuroscience, 2022.
+human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Lavender" Jiang**, Mustfa Nasir-Moin, Ayaka Hachisuka, Jonathan Shor, Yao Wang, Biyu J. He, Eric K. Oermann. (Conference on Cognitive Computational Neuroscience, 2022)
 
-- Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann.Congress of Neurological Surgeons (CNS) 2022. CNS Best Data Science Award. (In review for Journal of Neurosurgery)
+- Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann. (Congress of Neurological Surgeons 2022. CNS Best Data Science Award. In review for Journal of Neurosurgery)
 
 - [NYUTron]((https://www.nvidia.com/gtc/session-catalog/?search=nyutron&search=nyutron%2C+nyutron&tab.scheduledorondemand=1583520458947001NJiE#/session/1638546188662001BYW5)): Health System-scale Language Models for Clinical Operations: 30-day Readmissions. **Lavender Y. Jiang**, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
 
