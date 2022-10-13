@@ -31,7 +31,7 @@ Publications and Talks
 
 - Reading medical notes with health-system scale language models to predict 30-day readmission. **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Manuscript in progress)
 
-- Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction.  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (In review for ML4H 2022)
+<!-- - Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction.  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (In review for ML4H 2022) -->
 
 - [Attention](https://app.biorender.com/illustrations/6308f27a5fc9db88d8b82422) based neural networks display 
 human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Lavender" Jiang**, Mustfa Nasir-Moin, Ayaka Hachisuka, Jonathan Shor, Yao Wang, Biyu J. He, Eric K. Oermann. Conference on Cognitive Computational Neuroscience, 2022.
