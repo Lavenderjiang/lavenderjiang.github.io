@@ -61,6 +61,8 @@ Professional Services
 
 Mentorship
 ------
+Spring 2023: Avery Hang (NYU DS+Math 24'), Ruiqi Deng (NYU CS+DS 24'). Project: enabling clinical LM to understand lab measurements through tokenization.
+
 Fall 2022: Hongyi Zheng (NYU Math+CS+DS 23'), Tracy Zhu (NYU DS+Math 23'). Project: capturing long context in clinical notes.
 
 Summer 2022: Ming Cao (NYU DS+CS 23'), Grace Ge'er Yang (NYU Math+DS 23'). Project: evaluating token-level sensitivity of clinical language model.
