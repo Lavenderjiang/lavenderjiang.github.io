@@ -40,7 +40,7 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 - [NYUTron]((https://www.nvidia.com/gtc/session-catalog/?search=nyutron&search=nyutron%2C+nyutron&tab.scheduledorondemand=1583520458947001NJiE#/session/1638546188662001BYW5)): Health System-scale Language Models for Clinical Operations: 30-day Readmissions. **Lavender Y. Jiang**, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
 
-- Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, **Lavender Y. Jiang**, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021)
+- Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, **Lavender Y. Jiang**, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021. Patent in review.)
 
 - [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. **Lavender Y. Jiang**, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020)
 
