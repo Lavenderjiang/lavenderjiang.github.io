@@ -14,6 +14,8 @@ I received my BSc in Electrical and Computer Engineering and Mathematical Scienc
 
 If you want to discuss research with me, feel free to [schedule](https://bit.ly/3lGo3UM) a 30-minute meeting. We can meet on Zoom or in person (Center for Data Science at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park).
 
+I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://site.xujin.xyz/). Some of my new hobbies include rollerblading, pole dancing and bass guitar. I try (and sometimes fail) to live a vegan, low-waste and minimalist lifestyle.
+
 <!-- 
 Selected Courseworks
 ------
