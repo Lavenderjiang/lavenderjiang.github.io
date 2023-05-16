@@ -52,6 +52,8 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 Academic Services
 ------
+- Committe Member for IJCNLP-AACL 2023 
+
 - Emergency Reviewer for [ACL 2023](https://2023.aclweb.org/) Dialogue and Interactive Systems Track
 
 - Emergency Reviewer for [All Things Attention](https://attention-learning-workshop.github.io/) workshop, in conjunction with NeurIPS 22
@@ -64,8 +66,8 @@ Mentorship
 ------
 Spring 2023: Avery Hang (NYU DS+Math 24'), Ruiqi Deng (NYU CS+DS 24'). Project: enabling clinical LM to understand lab measurements through tokenization.
 
-Fall 2022: Hongyi Zheng (NYU Math+CS+DS 23'), Tracy Zhu (NYU DS+Math 23'). Project: capturing long context in clinical notes.
+Fall 2022: Hongyi Zheng (NYU Math+CS+DS 23'), Tracy Zhu (UChicago Stat 25', NYU DS+Math 23'). Project: capturing long context in clinical notes.
 
-Summer 2022: Ming Cao (NYU DS+CS 23'), Grace Ge'er Yang (NYU Math+DS 23'). Project: evaluating token-level sensitivity of clinical language model.
+Summer 2022: Ming Cao (UPenn DS Master 25', NYU DS+CS Undergrad 23'), Grace Ge'er Yang (Stanford DS Master 25', NYU Math+DS 23'). Project: evaluating token-level sensitivity of clinical language model.
 
-Summer 2022 (co-mentor with Chris Xujin Liu): Gavin Yang (NYU CS+DS 24'), Stephen Zhang (NYU CS+DS 23'), Lucy Wu (NYU DS+CS 23'). Project: generating structured data from unstructured clinical notes.
+Summer 2022 (co-mentor with Chris Xujin Liu): Gavin Yang (NYU CS+DS 24'), Stephen Zhang (UPenn DS Master 25', NYU CS+DS 23'), Lucy Wu (Colombia DS Master 25', NYU DS+CS 23'). Project: generating structured data from unstructured clinical notes.
