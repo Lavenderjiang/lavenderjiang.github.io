@@ -31,7 +31,7 @@ Selected Courseworks
 Publications and Talks
 ------
 
-- Health system scale language models are general purpose clinical prediction engines. **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (In Review)
+- Health system scale language models are general purpose clinical prediction engines. **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
 - Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction.  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022, [preprint](https://arxiv.org/abs/2211.07047))
 
@@ -62,12 +62,24 @@ Academic Services
 
 - Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022
 
-Mentorship
+Mentorship 
 ------
-Spring 2023: Avery Hang (NYU DS+Math 24'), Ruiqi Deng (NYU CS+DS 24'). Project: enabling clinical LM to understand lab measurements through tokenization.
+Project and names are sorted by time and alphabetical order.
 
-Fall 2022: Hongyi Zheng (NYU Math+CS+DS 23'), Tracy Zhu (UChicago Stat 25', NYU DS+Math 23'). Project: capturing long context in clinical notes.
+Summer 2023: enabling clinical LM to understand lab measurements through tokenization.
 
-Summer 2022: Ming Cao (UPenn DS Master 25', NYU DS+CS Undergrad 23'), Grace Ge'er Yang (Stanford DS Master 25', NYU Math+DS 23'). Project: evaluating token-level sensitivity of clinical language model.
+- Avery Hang (NYU DS+Math 24')
+- Ruiqi Deng (NYU CS+DS 24').
 
-Summer 2022 (co-mentor with Chris Xujin Liu): Gavin Yang (NYU CS+DS 24'), Stephen Zhang (UPenn DS Master 25', NYU CS+DS 23'), Lucy Wu (Colombia DS Master 25', NYU DS+CS 23'). Project: generating structured data from unstructured clinical notes.
+Fall 2023: capturing long context in clinical notes. 
+- Hongyi Zheng (NYU Math+CS+DS 23')
+- Tracy Zhu (UChicago Stat 25', NYU DS+Math 23')
+
+Summer 2022 - Spring 2023: evaluating token-level sensitivity of clinical language model.
+- Grace Ge'er Yang (Stanford DS Master 25', NYU Math+DS 23')
+- Ming Cao (UPenn DS Master 25', NYU DS+CS Undergrad 23')
+
+Summer 2022 - Fall 2023: generating structured data from unstructured clinical notes. (co-mentor with Chris Xujin Liu)
+- Gavin Yang (NYU CS+DS 24')
+- Lucy Wu (Colombia DS Master 25', NYU DS+CS 23')
+- Stephen Zhang (UPenn DS Master 25', NYU CS+DS 23')
