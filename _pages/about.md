@@ -66,12 +66,12 @@ Mentorship
 ------
 Project and names are sorted by time and alphabetical order.
 
-Summer 2023: enabling clinical LM to understand lab measurements through tokenization.
+Summer 2023: Evaluating clinical LM's understanding of lab measurements.
 
 - Avery Hang (NYU DS+Math 24')
 - Ruiqi Deng (NYU CS+DS 24').
 
-Fall 2023: capturing long context in clinical notes. 
+Fall 2023: Evaluating the predictive power of different note types and different note segments. 
 - Hongyi Zheng (Quantitative Strategist at Akuna Captial 23'-present, NYU Math+CS+DS BA 23')
 - Tracy Zhu (UChicago Stat MS 25', NYU DS+Math BA 23')
 
@@ -79,7 +79,7 @@ Summer 2022 - Spring 2023: evaluating token-level sensitivity of clinical langua
 - Grace Ge'er Yang (Stanford DS MS 25', NYU Math+DS BA 23')
 - Ming Cao (UPenn DS MS 25', NYU DS+CS BA 23')
 
-Summer 2022 - Fall 2023: generating structured data from unstructured clinical notes. (co-mentor with Chris Xujin Liu)
+Summer 2022 - Fall 2023: using the correlation bias for automatic ICD-9 code assigment from discharge note (co-mentor with Chris Xujin Liu)
 - Gavin Yang (NYU CS+DS 24')
 - Lucy Wu (Colombia DS MS 25', NYU DS+CS BA 23')
 - Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
