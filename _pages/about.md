@@ -72,14 +72,14 @@ Summer 2023: enabling clinical LM to understand lab measurements through tokeniz
 - Ruiqi Deng (NYU CS+DS 24').
 
 Fall 2023: capturing long context in clinical notes. 
-- Hongyi Zheng (NYU Math+CS+DS 23')
-- Tracy Zhu (UChicago Stat 25', NYU DS+Math 23')
+- Hongyi Zheng (Quantitative Strategist at Akuna Captial 23'-present, NYU Math+CS+DS BA 23')
+- Tracy Zhu (UChicago Stat MS 25', NYU DS+Math BA 23')
 
 Summer 2022 - Spring 2023: evaluating token-level sensitivity of clinical language model.
-- Grace Ge'er Yang (Stanford DS Master 25', NYU Math+DS 23')
-- Ming Cao (UPenn DS Master 25', NYU DS+CS Undergrad 23')
+- Grace Ge'er Yang (Stanford DS MS 25', NYU Math+DS BA 23')
+- Ming Cao (UPenn DS MS 25', NYU DS+CS BA 23')
 
 Summer 2022 - Fall 2023: generating structured data from unstructured clinical notes. (co-mentor with Chris Xujin Liu)
 - Gavin Yang (NYU CS+DS 24')
-- Lucy Wu (Colombia DS Master 25', NYU DS+CS 23')
-- Stephen Zhang (UPenn DS Master 25', NYU CS+DS 23')
+- Lucy Wu (Colombia DS MS 25', NYU DS+CS BA 23')
+- Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
