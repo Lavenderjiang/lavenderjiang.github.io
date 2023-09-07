@@ -31,16 +31,20 @@ Selected Courseworks
 Publications and Talks
 ------
 
-- Health system scale language models are general purpose clinical prediction engines. **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
+- [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
-- Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction.  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022, [preprint](https://arxiv.org/abs/2211.07047))
+- [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
+
+- [Making the Most Out of the Limited Context Length: Predictive Power Varies with Clinical Note Type and Note Section](https://arxiv.org/abs/2307.07051). Hongyi Zheng, Yixin Zhu, **Lavender Yao Jiang**, Kyunghyun Cho, Eric Karl Oermann. (ACL SRW 2023)
+
+- [Intriguing Effect of the Correlation Prior on ICD-9 Code Assignment](https://aclanthology.org/2023.acl-srw.19.pdf). Zihao Yang, Chenkang Zhang, Muru Wu, Xujin Chris Liu, **Lavender Yao Jiang**, Kyunghyun Cho, Eric Karl Oermann. (ACL SRW 2023)
 
 - [Attention](https://app.biorender.com/illustrations/6308f27a5fc9db88d8b82422) based neural networks display 
 human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Lavender" Jiang**, Mustfa Nasir-Moin, Ayaka Hachisuka, Jonathan Shor, Yao Wang, Biyu J. He, Eric K. Oermann. (Conference on Cognitive Computational Neuroscience, 2022)
 
 - Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann. (Congress of Neurological Surgeons 2022. CNS Best Data Science Award. In review for Journal of Neurosurgery)
 
-- [NYUTron]((https://www.nvidia.com/gtc/session-catalog/?search=nyutron&search=nyutron%2C+nyutron&tab.scheduledorondemand=1583520458947001NJiE#/session/1638546188662001BYW5)): Health System-scale Language Models for Clinical Operations: 30-day Readmissions. **Lavender Y. Jiang**, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
+- NYUTron: Health System-scale Language Models for Clinical Operations: [30-day Readmissions](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41717/). **Lavender Y. Jiang**, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
 
 - Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, **Lavender Y. Jiang**, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021. Patent in review.)
 
@@ -52,8 +56,6 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 Academic Services
 ------
-- Committe Member for IJCNLP-AACL 2023 
-
 - Emergency Reviewer for [ACL Student Research Workshop 2023](https://acl2023-srw.github.io/) 
 
 - Emergency Reviewer for [ACL 2023](https://2023.aclweb.org/) Dialogue and Interactive Systems Track
@@ -64,12 +66,18 @@ Academic Services
 
 - Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022
 
-Mentorship 
+Teaching 
 ------
-Project and names are sorted by time and alphabetical order.
+09/2023 - 12/2023 (expected) Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning
+
+03/2023 - 05/2023: Private tutor for [NYU DS-GA.1003](https://nyu-ds1003.github.io/spring2023/#home) Machine Learning
+
+09/2020 - 12/2020 Section leader and grader for cmu [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
+
+06/2022 - 09/2023: Research mentor for undergraduate students
+(project and names are sorted by time and alphabetical order.)
 
 Summer 2023: Evaluating clinical LM's understanding of lab measurements.
-
 - Avery Hang (NYU DS+Math 24')
 - Ruiqi Deng (NYU CS+DS 24').
 
