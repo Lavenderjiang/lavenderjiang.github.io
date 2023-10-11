@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Lavender Jiang (蒋遥). I am a second year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunhyun Cho](https://kyunghyuncho.me/). I work on clinical predictions using natural language processing as a medical fellow for [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health). I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). 
+Hi! My name is Lavender Jiang (蒋遥). I am a third year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunhyun Cho](https://kyunghyuncho.me/). I work on clinical predictions using natural language processing as a medical fellow for [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health). I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). 
 
 I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
 
@@ -68,11 +68,11 @@ Academic Services
 
 Teaching 
 ------
-09/2023 - 12/2023 (expected) Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning
+09/2023 - 12/2023 (expected) Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning; Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
 
 03/2023 - 05/2023: Private tutor for [NYU DS-GA.1003](https://nyu-ds1003.github.io/spring2023/#home) Machine Learning
 
-09/2020 - 12/2020 Section leader and grader for cmu [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
+09/2020 - 12/2020 Section leader and grader for CMU [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
 
 06/2022 - 09/2023: Research mentor for undergraduate students
 (project and names are sorted by time and alphabetical order.)
