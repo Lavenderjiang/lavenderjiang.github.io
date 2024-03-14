@@ -55,6 +55,8 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 Academic Services
 ------
+- Reviewer for IEEE Transactions on Neural Networks and Learning Systems
+
 - Reviewer for [ICLR DMLR Workshop 2024](https://dmlr.ai/)
 
 - Emergency Reviewer for [ACL Student Research Workshop 2023](https://acl2023-srw.github.io/) 
