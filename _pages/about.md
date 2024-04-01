@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Lavender Jiang (蒋遥). I am a third year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunghyun Cho](https://kyunghyuncho.me/). I work on clinical predictions using natural language processing as a medical fellow for [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health). I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). I am honored to be the receipient of 2024 [Apple Scholars](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) in AIML PhD fellowship. This summer (June-August 2024), I'll be interning at Apple Health Seattle :)
+Hi! My name is Lavender Jiang (蒋遥). I am a third year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunghyun Cho](https://kyunghyuncho.me/). I work on natural language processing for clinical notes and I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). I am honored to be the receipient medical fellowship from [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health) and the [AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) PhD fellowship from Apple. 
+
+This summer (June-August 2024), I'll be interning at Apple Health Seattle :)
 
 I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
 
