@@ -32,6 +32,8 @@ Selected Courseworks
 Publications and Talks
 ------
 
+- Preprint: [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). 
+
 - [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
 - [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
