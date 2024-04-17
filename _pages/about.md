@@ -13,7 +13,7 @@ This summer (June-August 2024), I'll be interning at Apple Health Seattle :)
 
 I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
 
-If you want to discuss research with me, feel free to write me an email. (If we know each other, we can [schedule](https://bit.ly/3lGo3UM) a 30-minute meeting). We can meet on Zoom or in person (Center for Data Science at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park).
+If you want to discuss research with me, feel free to write me an email. (If we know each other, we can schedule a 30-minute meeting). We can meet on Zoom or in person (Center for Data Science at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park).
 
 I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://site.xujin.xyz/). Some of my new hobbies include rollerblading, pole dancing and bass guitar. I try (and sometimes fail) to live a vegan, low-waste and minimalist lifestyle.
 
