@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Lavender Jiang (蒋遥). I am a third year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunghyun Cho](https://kyunghyuncho.me/). I work on natural language processing for clinical notes and I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). I am honored to be the receipient medical fellowship from [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health) and the [AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) PhD fellowship from Apple. 
-
-This summer (June-August 2024), I'll be interning at Apple Health Seattle :)
+Hi! My name is Lavender Jiang (蒋遥). I am a fourth year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.nyuolab.org/main/#team) and [Kyunghyun Cho](https://kyunghyuncho.me/). I work on natural language processing for clinical notes and I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). I am honored to be the recipient medical fellowship from [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health) and the [AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) PhD fellowship from Apple. 
 
 I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
 
@@ -32,7 +30,7 @@ Selected Courseworks
 Publications and Talks
 ------
 
-- Preprint: [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). 
+<!-- - Preprint: [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67).  -->
 
 - [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
@@ -57,25 +55,21 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 - "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
 
+Grants
+------
+Seed Grant Funding Award (Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+
 Academic Services
 ------
-- Reviewer for IEEE Transactions on Neural Networks and Learning Systems
+- Reviewer for IEEE [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems), [ICLR DMLR Workshop 2024](https://dmlr.ai/)
 
-- Reviewer for [ICLR DMLR Workshop 2024](https://dmlr.ai/)
-
-- Emergency Reviewer for [ACL Student Research Workshop 2023](https://acl2023-srw.github.io/) 
-
-- Emergency Reviewer for [ACL 2023](https://2023.aclweb.org/) Dialogue and Interactive Systems Track
-
-- Emergency Reviewer for [All Things Attention](https://attention-learning-workshop.github.io/) workshop, in conjunction with NeurIPS 22
-
-- Emergency Reviewer for [AACL-IJCNLP 2022](https://aaclweb.org/), Language Model track
+- Emergency Reviewer for [ACL Student Research Workshop 2023](https://acl2023-srw.github.io/),[ACL 2023](https://2023.aclweb.org/), [All Things Attention](https://attention-learning-workshop.github.io/), [AACL-IJCNLP 2022](https://aaclweb.org/)
 
 - Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022
 
 Teaching 
 ------
-1/2024 - 05/2024 (expected) grader for NYU Machine Learning Course
+1/2024 - 05/2024 grader for NYU Machine Learning Course
 
 09/2023 - 12/2023 Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning; Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
 
