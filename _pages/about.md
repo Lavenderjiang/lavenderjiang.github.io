@@ -52,7 +52,7 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 <!-- - [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. **Lavender Y. Jiang**, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020) -->
 
-- ["Graph Signal Processing and Deep Learning"](https://arxiv.org/abs/2008.01247), Mark Cheung, John Shi, **Yao Jiang**, Oren Wright and José Moura. (IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
+- [Graph Signal Processing and Deep Learning](https://arxiv.org/abs/2008.01247), Mark Cheung, John Shi, **Yao Jiang**, Oren Wright and José Moura. (IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
 
 <!-- - "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019) -->
 
@@ -81,9 +81,9 @@ Teaching
 
 1/2024 - 05/2024 Grader for NYU Machine Learning Course
 
-09/2023 - 12/2023 Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning; Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
+09/2023 - 12/2023 Section leader and grader for NYU DS-GA.1011 [Natural Language Processing with Representation Learning](https://nyu-cs2590.github.io/fall2023/); Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
 
-03/2023 - 05/2023: Private tutor for [NYU DS-GA.1003](https://nyu-ds1003.github.io/spring2023/#home) Machine Learning
+03/2023 - 05/2023: Private tutor for NYU DS-GA.1003 [Machine Learning](https://nyu-ds1003.github.io/spring2023/#home)
 
 06/2022 - 05/2025: Research mentor for undergrad / master/ high school students
 (project and names are sorted by time and alphabetical order.)
@@ -112,4 +112,4 @@ Summer 2022 - Fall 2023: using the [correlation bias](https://aclanthology.org/2
 - Lucy Wu (Data Scientist at Microsoft 25'-present, Colombia DS MS 25', NYU DS+CS BA 23')
 - Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
 
-09/2020 - 12/2020 Section leader and grader for CMU [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
+09/2020 - 12/2020 Section leader and grader for CMU 21-260 [differential equations](https://www.math.cmu.edu/~handron/21_260/index.html) 
