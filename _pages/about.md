@@ -35,7 +35,7 @@ Publications and Talks
 
 - [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
-- [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
+<!-- - [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
 
 - [Making the Most Out of the Limited Context Length: Predictive Power Varies with Clinical Note Type and Note Section](https://arxiv.org/abs/2307.07051). Hongyi Zheng, Yixin Zhu, **Lavender Yao Jiang**, Kyunghyun Cho, Eric Karl Oermann. (ACL SRW 2023)
 
@@ -44,17 +44,17 @@ Publications and Talks
 - [Attention](https://app.biorender.com/illustrations/6308f27a5fc9db88d8b82422) based neural networks display 
 human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Lavender" Jiang**, Mustfa Nasir-Moin, Ayaka Hachisuka, Jonathan Shor, Yao Wang, Biyu J. He, Eric K. Oermann. (Conference on Cognitive Computational Neuroscience, 2022)
 
-- Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann. (Congress of Neurological Surgeons 2022. CNS Best Data Science Award. In review for Journal of Neurosurgery)
+- Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann. (Congress of Neurological Surgeons 2022. CNS Best Data Science Award. In review for Journal of Neurosurgery) -->
 
 - NYUTron: Health System-scale Language Models for Clinical Operations: [30-day Readmissions](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41717/). **Lavender Y. Jiang**, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
 
 - Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, **Lavender Y. Jiang**, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021.) Patent: System and method for deep learning for tracking cortical spreading depression using eeg (WO2022235467A1).
 
-- [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. **Lavender Y. Jiang**, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020)
+<!-- - [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. **Lavender Y. Jiang**, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020) -->
 
 - ["Graph Signal Processing and Deep Learning"](https://arxiv.org/abs/2008.01247), Mark Cheung, John Shi, **Yao Jiang**, Oren Wright and José Moura. (IEEE Signal Processing Magazine Special Issue on Graph Signal Processing)
 
-- "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019)
+<!-- - "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019) -->
 
 Grants
 ------
@@ -71,7 +71,7 @@ Academic Services
 Teaching 
 ------
 
-1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 Machine Learning
+1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025)
 
 1/2024 - 05/2024 Grader for NYU Machine Learning Course
 
