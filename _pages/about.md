@@ -79,9 +79,7 @@ Teaching
 
 03/2023 - 05/2023: Private tutor for [NYU DS-GA.1003](https://nyu-ds1003.github.io/spring2023/#home) Machine Learning
 
-09/2020 - 12/2020 Section leader and grader for CMU [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
-
-06/2022 - 09/2023: Research mentor for undergrad / master/ high school students
+06/2022 - 05/2025: Research mentor for undergrad / master/ high school students
 (project and names are sorted by time and alphabetical order.)
 
 Spring 2024 - Spring 2025: Evaluating the impact of [packing and shuffling](https://arxiv.org/html/2408.09621v1) strategies on training decoder models. Accepted to ACL Rolling Review.
@@ -107,3 +105,5 @@ Summer 2022 - Fall 2023: using the [correlation bias](https://aclanthology.org/2
 - Gavin Yang (NorthEastern CS PhD 30', NYU CS+DS BA 24')
 - Lucy Wu (Data Scientist at Microsoft 25'-present, Colombia DS MS 25', NYU DS+CS BA 23')
 - Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
+
+09/2020 - 12/2020 Section leader and grader for CMU [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
