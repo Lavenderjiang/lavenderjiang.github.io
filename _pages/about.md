@@ -56,6 +56,12 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 <!-- - "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019) -->
 
+Internship
+------
+05/2025 - 09/2025: Research Intern at Apple (New York).
+
+06/2024 - 09/2024: Research Intern at Apple (Seattle).
+
 Grants
 ------
 Seed Grant Funding Award (Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
