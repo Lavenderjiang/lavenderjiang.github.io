@@ -13,7 +13,8 @@ I received my BSc in Electrical and Computer Engineering and Mathematical Scienc
 
 If you want to discuss research with me, feel free to write me an email. (If we know each other, we can schedule a 30-minute meeting). We can meet on Zoom or in person (Center for Data Science at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park).
 
-I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://site.xujin.xyz/). Some of my new hobbies include rollerblading, pole dancing and bass guitar. I try (and sometimes fail) to live a vegan, low-waste and minimalist lifestyle.
+I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://site.xujin.xyz/). Some of my new hobbies include bass guitar and [homemaking](https://www.goodreads.com/book/show/79388.Home_Comforts). I have been vegan since 2020 and have not died from protein deficiency yet ;)
+<!-- try (and sometimes fail) to live a vegan, low-waste and minimalist lifestyle. -->
 
 <!-- 
 Selected Courseworks
@@ -69,7 +70,10 @@ Academic Services
 
 Teaching 
 ------
-1/2024 - 05/2024 grader for NYU Machine Learning Course
+
+1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 Machine Learning
+
+1/2024 - 05/2024 Grader for NYU Machine Learning Course
 
 09/2023 - 12/2023 Section leader and grader for NYU [DS-GA.1011](https://nyu-cs2590.github.io/fall2023/) Natural Language Processing with Representation Learning; Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
 
@@ -77,22 +81,29 @@ Teaching
 
 09/2020 - 12/2020 Section leader and grader for CMU [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
 
-06/2022 - 09/2023: Research mentor for undergraduate students
+06/2022 - 09/2023: Research mentor for undergrad / master/ high school students
 (project and names are sorted by time and alphabetical order.)
 
-Summer 2023 - Spring 2024: Evaluating clinical LM's understanding of lab measurements.
-- Avery Hang (NYU DS+Math 24')
-- Ruiqi Deng (NYU CS+DS 24').
+Spring 2024 - Spring 2025: Evaluating the impact of [packing and shuffling](https://arxiv.org/html/2408.09621v1) strategies on training decoder models. Accepted to ACL Rolling Review.
+- Ruilin (Luca) Wang (NYU DS MS 25', NYU BSc Nutrition 23')
+- Yanbing (Cynthia) Chen (Penn State Bioinformatics PhD 30', NYU Biostats MS 25')
 
-Fall 2023: Evaluating the predictive power of different note types and different note segments. 
+Summer 2023 - Summer 2024: Evaluating LLM's ability of [generating causal graphs of medical concepts](https://arxiv.org/abs/2412.10982). Accepted to ML4H.
+- Gabriel Rosenbaum (UChicago BSc CS 29', Packer Collegiate 25')
+
+Summer 2023 - Spring 2024: Evaluating clinical LM's understanding of [lab measurements](https://arxiv.org/abs/2503.04155).
+- Avery Hang (Yale Stats MS 26', NYU DS+Math 24')
+- Ruiqi Deng (Cornell Tech Health Tech MS 26', NYU CS+DS 24').
+
+Fall 2023: Evaluating the [predictive power of different note types and different note segments](https://aclanthology.org/2023.acl-srw.18.pdf). Accepted to ACL SRW.
 - Hongyi Zheng (Quantitative Strategist at Akuna Captial 23'-present, NYU Math+CS+DS BA 23')
 - Tracy Zhu (UChicago Stat MS 25', NYU DS+Math BA 23')
 
-Summer 2022 - Spring 2023: evaluating token-level sensitivity of clinical language model.
-- Grace Ge'er Yang (Stanford DS MS 25', NYU Math+DS BA 23')
+Summer 2022 - Spring 2023: evaluating token-level [sensitivity of clinical language model](https://arxiv.org/abs/2211.07047). Accepted to ML4H.
+- Grace Ge'er Yang (Data Scientist at Databricks 25'-present, Stanford DS MS 25', NYU Math+DS BA 23')
 - Ming Cao (UPenn DS MS 25', NYU DS+CS BA 23')
 
-Summer 2022 - Fall 2023: using the correlation bias for automatic ICD-9 code assigment from discharge note (co-mentor with Chris Xujin Liu)
-- Gavin Yang (NYU CS+DS 24')
-- Lucy Wu (Colombia DS MS 25', NYU DS+CS BA 23')
+Summer 2022 - Fall 2023: using the [correlation bias](https://aclanthology.org/2023.acl-srw.19.pdf) for automatic ICD-9 code assigment from discharge note (co-mentor with Chris Xujin Liu). Accepted to ACL SRW.
+- Gavin Yang (NorthEastern CS PhD 30', NYU CS+DS BA 24')
+- Lucy Wu (Data Scientist at Microsoft 25'-present, Colombia DS MS 25', NYU DS+CS BA 23')
 - Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
