@@ -95,7 +95,7 @@ Spring 2024 - Spring 2025: Evaluating the impact of [packing and shuffling](http
 - Ruilin (Luca) Wang (NYU DS MS 25', NYU BSc Nutrition 23')
 - Yanbing (Cynthia) Chen (Penn State Bioinformatics PhD 30', NYU Biostats MS 25')
 
-Summer 2023 - Summer 2024: Evaluating LLM's ability of [generating causal graphs of medical concepts](https://arxiv.org/abs/2412.10982). Accepted to ML4H.
+Summer 2023 - Summer 2024: Evaluating LLM's ability of [generating knowledge graphs of medical concepts](https://arxiv.org/abs/2412.10982). Accepted to ML4H.
 - Gabriel Rosenbaum (UChicago BSc CS 29', Packer Collegiate 25')
 
 Summer 2023 - Spring 2024: Evaluating clinical LM's understanding of [lab measurements](https://arxiv.org/abs/2503.04155).
