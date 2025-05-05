@@ -49,7 +49,7 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 - [Generalization in Healthcare AI](https://arxiv.org/abs/2402.10965): Evaluation of a Clinical Large Language Model. Salman Rahman, Lavender Yao Jiang, Saadia Gabriel, Yindalon Aphinyanaphongs, Eric Karl Oermann, Rumi Chunara.
 
-- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). This paper has not been published (in part, I believe, because its findings challenge some foundational assumptions of current practice). I still think it raises important questions about how we handle and share de-identified health data, and I invite you to read it and form your own opinion. 
+- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). This paper has not been published, which I believe is partly due to how it challenges some foundational assumptions of current clinical NLP practice. I still think it raises important questions about how we handle and share de-identified health data, and I invite you to read it and form your own opinion. 
 
 - Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, Lavender Y. Jiang, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021.) Patent: System and method for deep learning for tracking cortical spreading depression using eeg (WO2022235467A1).
 
