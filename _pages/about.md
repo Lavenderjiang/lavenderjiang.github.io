@@ -67,7 +67,7 @@ Internship
 
 Grants
 ------
-Seed Grant Funding Award (Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
 
 Academic Services
 ------
@@ -80,9 +80,10 @@ Academic Services
 Teaching 
 ------
 
-1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025)
+1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://www.overleaf.com/read/bdrgqbgspcgm#304c85)
+(I wrote the lab on [classification](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab2/messmaster_1_annotated.pdf) and [backprop](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab3/messmaster_2_annotated.pdf))
 
-1/2024 - 05/2024 Grader for NYU Machine Learning Course
+1/2024 - 05/2024 Grader for NYU DS-GA.1003 [Machine Learning](https://rajeshhr.github.io/ml-2024/)
 
 09/2023 - 12/2023 Section leader and grader for NYU DS-GA.1011 [Natural Language Processing with Representation Learning](https://nyu-cs2590.github.io/fall2023/); Private tutor for [NYU DS-GA.1005](https://ballistic-fender-541.notion.site/Inference-and-Representation-7a52d1b1030f44b5af788191a3ddb27c) Inference and Representation
 
