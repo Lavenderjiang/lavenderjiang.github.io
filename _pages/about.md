@@ -7,13 +7,42 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Lavender Jiang (蒋遥). I am a fourth year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.linkedin.com/in/eric-oermann-b829528/) and [Kyunghyun Cho](https://kyunghyuncho.me/). I work on natural language processing for clinical notes and I am interested in representation learning. I am a member with [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/). I am honored to be the recipient of medical fellowship from [NYU Langone Health](https://en.wikipedia.org/wiki/NYU_Langone_Health) and the [AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) PhD fellowship from Apple. 
+Hi! I'm Lavender Jiang (蒋遥). I am a fifth year Data Science PhD student at New York University, co-advised by [Eric Oermann](https://www.linkedin.com/in/eric-oermann-b829528/) and [Kyunghyun Cho](https://kyunghyuncho.me/). 
 
-I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon, where I worked with [José Moura](https://users.ece.cmu.edu/~moura/) on [graph signal processing](https://arxiv.org/pdf/1712.00468.pdf), [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/) on [cortical spreading detection](https://ieeexplore.ieee.org/document/9441333), and [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/) on sensor fusion. 
+My research focuses on the science of training domain-specific models, building AI that bridges the gap between Machine Learning theory and real-world clinical deployment. My passion for healthcare was motivated by seeing my grandparents suffer from cancer, which inspires me to make a real-world impact in the field.
 
-If you want to discuss research with me, feel free to write me an email. (If we know each other, we can schedule a 30-minute meeting). We can meet on Zoom or in person (Center for Data Science at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park).
+⭐🗓️ I'm at **Neurips San Diego Dec 1 - Dec 7** and feel free to [schedule](https://calendar.app.google/Cg93qb7WHGHvXcCJ9) an in-person meeting wth me here!
 
-I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://site.xujin.xyz/). Some of my new hobbies include bass guitar and [homemaking](https://www.goodreads.com/book/show/79388.Home_Comforts). I've been vegan since 2020 and have not died from protein deficiency yet ;)
+Affiliations and Honors
+------
+- Labs: [OLAB](https://www.nyuolab.org/main/#home) and [ML2](https://wp.nyu.edu/ml2/)
+- Fellowships:
+    - Apple [AIML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2024) PhD fellowship
+    - NYU Center for Data Science Fellowship
+    - NYU CDS Meidcal Fellowship. 
+- Grants:
+    - Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000)Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+
+Educational Background
+------
+
+09/2021 - present    New York University, New York, NY 
+PhD student in Data Science  (GPA 3.979)
+Selected courseworks: Big Data, Machine Learning, Inference and Representation
+
+09/2017 - 05/2021   Carnegie Mellon University, Pittsburgh, PA
+BSc (Honor): Electrical and Computer Engineering with an additional major in Mathematical Sciences (GPA 3.55)
+Selected courseworks: Probabilities and Statistics, Linear Algebra, Real Analysis, Digital Systems, Computer Systems, Signal Processing, Software Engineering, Machine Learning
+
+<!-- I enjoy cooking, gaming and yoga. I am married to my best friend [Xujin Liu](https://engineering.nyu.edu/student/xujin-liu). Some of my new hobbies include bass guitar and [homemaking](https://www.goodreads.com/book/show/79388.Home_Comforts). I've been vegan since 2020 and have not died from protein deficiency yet ;) -->
+
+<!-- I received my BSc in Electrical and Computer Engineering and Mathematical Sciences from Carnegie Mellon. I undergraduate research included:
+- [Graph signal processing](https://arxiv.org/pdf/1712.00468.pdf) (with [José Moura](https://users.ece.cmu.edu/~moura/))
+- [Cortical spreading detection](https://ieeexplore.ieee.org/document/9441333) (with [Pulkit Grover](https://users.ece.cmu.edu/~pgrover/))
+- Sensor fusion (with [Howard Choset](https://www.ri.cmu.edu/ri-faculty/howie-choset/)) 
+
+If you want to discuss research with me, feel free to write me an email. (If we know each other, we can schedule a 30-minute meeting). We can meet on Zoom or in person (CDS at 60 5th Ave, Tisch Hospital at 550 1st Ave, or Washington Square Park). -->
+
 <!-- try (and sometimes fail) to live a vegan, low-waste and minimalist lifestyle. -->
 
 <!-- 
@@ -28,11 +57,24 @@ Selected Courseworks
 - [Computer Graphics](http://15462.courses.cs.cmu.edu/spring2020/home)
 - [Principles of Software Construction](https://www.cs.cmu.edu/~charlie/courses/17-214/2018-fall/) -->
 
-Publications and Talks
+<!-- Publications and Talks
+------ -->
+
+Selected Publications
 ------
+
+Health system scale language models are general purpose clinical prediction engines. 
+Lavender Y. Jiang, Xujin Chris Liu, Nima Pour Nejatian, Mustafa Nasir-Moin, Duo Wang, Anas Abidin, Kevin Eaton, Howard Antony Riina, Ilya Laufer, Paawan Punjabi, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander T. M. Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann (2023). *Nature*, :1–6.
+
+
+
+Language Models Can Guess Your Identities from De-identified Clinical Notes.  Lavender Yao Jiang, Daniel Alexander Alber, Zihao Yang, Karl L. Sangwon, Xujin Chris Liu, Kyunghyun Cho, Eric Karl Oermann. Under resubmission.
 
 
 - [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). Lavender Yao Jiang, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
+
+- [Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703).
+Lavender Y. Jiang, Angelica Chen, Xu Han, Xujin Chris Liu, Radhika Dua, Kevin Eaton, Frederick Wolff, Robert Steele, Jeff Zhang, Anton Alyakin, Qingkai Pan, Yanbing Chen, Karl L. Sangwon, Daniel A. Alber, Jaden Stryker, Jin Vivian Lee, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann. In preparation.
 
 <!-- - [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
 
@@ -45,11 +87,15 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 - Methods and Impact for using Federated Learning to Collaborate on Clinical Research. Alexander TM Cheung, Mustafa Nasir-Moin, Young Joon (Fred) Kwon, Jiahui Guan, Chris Liu, **Lavender Jiang**, Christian Raimondo, Silky Chotai, Lola Chambless, Hasan S Ahmad, Daksh Chauhan, Jang W Yoon, Todd Hollon, Vivek Buch, Douglas Kondziolka, Dinah Chen, Lama Al-Aswad, Yindalon Aphinyanaphongs, Eric Karl Oermann. (Congress of Neurological Surgeons 2022. CNS Best Data Science Award. In review for Journal of Neurosurgery) -->
 
-- NYUTron: Health System-scale Language Models for Clinical Operations: [30-day Readmissions](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41717/). Lavender Y. Jiang, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022)
+<!-- - NYUTron: Health System-scale Language Models for Clinical Operations: [30-day Readmissions](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41717/). Lavender Y. Jiang, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022) -->
+
+- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). In resubmission.
+
+- [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047). Grace Yang, Ming Cao, Lavender Y. Jiang, Xujin C. Liu, Alexander T.M. Cheung, Hannah Weiss, David Kurland, Kyunghyun Cho, Eric K. Oermann. (ML4H 2022)
 
 - [Generalization in Healthcare AI](https://arxiv.org/abs/2402.10965): Evaluation of a Clinical Large Language Model. Salman Rahman, Lavender Yao Jiang, Saadia Gabriel, Yindalon Aphinyanaphongs, Eric Karl Oermann, Rumi Chunara.
 
-- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). This paper has not been published, which I believe is partly due to how it challenges some foundational assumptions of current clinical NLP practice. I still think it raises important questions about how we handle and share de-identified health data, and I invite you to read it and form your own opinion. 
+<!-- This paper has not been published, which I believe is partly due to how it challenges some foundational assumptions of current clinical NLP practice. I still think it raises important questions about how we handle and share de-identified health data, and I invite you to read it and form your own opinion.  -->
 
 - Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, Lavender Y. Jiang, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021.) Patent: System and method for deep learning for tracking cortical spreading depression using eeg (WO2022235467A1).
 
@@ -59,23 +105,27 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 <!-- - "Pooling in Graph Convolutional Neural Networks", Mark Cheung, John Shi, Oren Wright, **Yao Jiang** and José  Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2019) -->
 
-Internship
+<!-- Internship
 ------
 05/2025 - 09/2025: Research Intern at Apple (New York).
 
-06/2024 - 09/2024: Research Intern at Apple (Seattle).
-
+06/2024 - 09/2024: Research Intern at Apple (Seattle). -->
+<!-- 
 Grants
 ------
-Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang. -->
 
-Academic Services
+Services
 ------
-- Reviewer for IEEE [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems), BMC [Health Services Research](https://bmchealthservres.biomedcentral.com/about), [ICLR DMLR Workshop 2024](https://dmlr.ai/)
+
+- Reviewer for  IEEE TNNLS, Scientific Reports, BMC Health Services Research, ICLR DMLR Workshop 2024, ACL Student Research Workshop 2023, ACL 2023, All Things Attention, AACL-IJCNLP 2022.
+
+- Co-organizer for Global AI Frontier Lab Workshop 2025, NYU AI School 2022
+<!-- - Reviewer for IEEE [TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems), BMC [Health Services Research](https://bmchealthservres.biomedcentral.com/about), [ICLR DMLR Workshop 2024](https://dmlr.ai/)
 
 - Emergency Reviewer for [ACL Student Research Workshop 2023](https://acl2023-srw.github.io/),[ACL 2023](https://2023.aclweb.org/), [All Things Attention](https://attention-learning-workshop.github.io/), [AACL-IJCNLP 2022](https://aaclweb.org/)
 
-- Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022
+- Co-organizer for [NYU AI School](https://twitter.com/nyuaischool?lang=en) 2022 -->
 
 Teaching 
 ------
