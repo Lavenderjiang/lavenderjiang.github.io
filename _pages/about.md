@@ -21,7 +21,7 @@ Affiliations and Honors
     - NYU Center for Data Science Fellowship
     - NYU CDS Meidcal Fellowship. 
 - Grants:
-    - Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000)Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+    - Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000).Kyunghyun Cho, Eric Oermann, Lavender Jiang.
 
 Educational Background
 ------
@@ -63,12 +63,12 @@ Selected Courseworks
 Selected Publications
 ------
 
-Health system scale language models are general purpose clinical prediction engines. 
+<!-- Health system scale language models are general purpose clinical prediction engines. 
 Lavender Y. Jiang, Xujin Chris Liu, Nima Pour Nejatian, Mustafa Nasir-Moin, Duo Wang, Anas Abidin, Kevin Eaton, Howard Antony Riina, Ilya Laufer, Paawan Punjabi, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander T. M. Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann (2023). *Nature*, :1–6.
 
 
 
-Language Models Can Guess Your Identities from De-identified Clinical Notes.  Lavender Yao Jiang, Daniel Alexander Alber, Zihao Yang, Karl L. Sangwon, Xujin Chris Liu, Kyunghyun Cho, Eric Karl Oermann. Under resubmission.
+Language Models Can Guess Your Identities from De-identified Clinical Notes.  Lavender Yao Jiang, Daniel Alexander Alber, Zihao Yang, Karl L. Sangwon, Xujin Chris Liu, Kyunghyun Cho, Eric Karl Oermann. Under resubmission. -->
 
 
 - [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). Lavender Yao Jiang, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
