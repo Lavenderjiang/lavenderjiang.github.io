@@ -21,7 +21,7 @@ Affiliations and Honors
     - NYU Center for Data Science Fellowship
     - NYU CDS Meidcal Fellowship. 
 - Grants:
-    - Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000).Kyunghyun Cho, Eric Oermann, Lavender Jiang.
+    - Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000). Kyunghyun Cho, Eric Oermann, Lavender Jiang.
 
 Educational Background
 ------
@@ -157,7 +157,23 @@ Taught, graded or tutored Machine Learning (Taught by [Kyunghyun Cho](https://ar
 
 Students 
 ------
-Student Name | Project Year | Affiliation |
+
+| Student Name | Project Year | Affiliation |
+|-------------|--------------|-------------|
+| **[Luca Ruilin Wang](https://www.linkedin.com/in/ruilin-wang-nyu/)** | 2025 | MLE @ Pieta, NYU Data Science MS '25 |
+| **[Cynthia Yanbing Chen](https://linkedin.com/in/yanbing-cynthia-chen-9aa61526a/en/)** | 2025 | Penn State Biostatistics PhD '29, NYU Biostatistics MS '25 |
+| **Gabriel R. Rosenbaum** | 2024 | UChicago CS BS '29, Packer Collegiate Institute '25 |
+| **[Kelly Ruiqi Deng](https://www.linkedin.com/in/ruiqideng-kd1030/)** | 2024 | Cornell Tech Health Tech MS '26, NYU CS BA '24 |
+| **[Avery Chi Hang](https://www.linkedin.com/in/avery-hang-1461ab24b/)** | 2024 | Yale Statistics MS '26, NYU Data Science + Math BA '24 |
+| **[Hongyi Zheng](https://www.linkedin.com/in/hongyizheng/)** | 2023 | Quantitative Strategist @ Akuna Capital, NYU Math+CS+DS BA '23 |
+| **[Tracy Zhu](https://www.linkedin.com/in/tracy-zhu-701478188/)** | 2023 | UChicago Statistics MS '25, NYU Data Science + Math BA '23 |
+| **[Gavin Zihao Yang](https://www.linkedin.com/in/zihao-gavin-yang-b865a6223/)** | 2023 | Northeastern CS PhD '29, NYU CS+DS BA '24 |
+| **[Lucy Wu](https://www.linkedin.com/in/lucy-wu-a19949189/)** | 2023 | Data Scientist @ Microsoft, Columbia Data Science MS '25, NYU DS+CS BA '23 |
+| **[Stephen Zhang](https://www.linkedin.com/in/stephen-zhang-nyu/)** | 2023 | SDE @ Apple, UPenn Data Science MS '25, NYU CS+DS BA '23 |
+| **[Grace Ge’er Yang](https://www.linkedin.com/in/grace-y-033071225/)** | 2022 | Data Scientist @ Databricks, Stanford Data Science MS '25, NYU Math+DS BA '23 |
+| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU Data Science + CS BA '23 |
+
+<!-- Student Name | Project Year | Affiliation |
 | :--- | :--- | :--- |
 | **[Luca Ruilin Wang](https://www.linkedin.com/in/ruilin-wang-nyu/)** | 2025 | MLE @ Pieta, NYU Data Science MS '25 |
 | **[Cynthia Yanbing Chen](linkedin.com/in/yanbing-cynthia-chen-9aa61526a/en/)** | 2025 | Penn State Biostatistics PhD '29, NYU Biostatistics MS '25 |
@@ -170,7 +186,7 @@ Student Name | Project Year | Affiliation |
 | **[Lucy Wu](https://www.linkedin.com/in/lucy-wu-a19949189/)** | 2023 | Data Scientist @ Microsoft, Columbia Data Science MS '25, NYU DS+CS BA '23 |
 | **[Stephen Zhang](https://www.linkedin.com/in/stephen-zhang-nyu/)** | 2023 | SDE @ Apple, UPenn Data Science MS '25, NYU CS+DS BA '23 |
 | **[Grace Ge’er Yang](https://www.linkedin.com/in/grace-y-033071225/)** | 2022 | Data Scientist @ Databricks, Stanford Data Science MS '25, NYU Math+DS BA '23 |
-| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU Data Science + CS BA '23 |
+| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU Data Science + CS BA '23 | -->
 
 <!-- 1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://www.overleaf.com/read/bdrgqbgspcgm#304c85)
 (I wrote the lab on [classification](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab2/messmaster_1_annotated.pdf) and [backprop](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab3/messmaster_2_annotated.pdf))
