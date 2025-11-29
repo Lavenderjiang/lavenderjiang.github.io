@@ -71,10 +71,10 @@ Lavender Y. Jiang, Xujin Chris Liu, Nima Pour Nejatian, Mustafa Nasir-Moin, Duo 
 Language Models Can Guess Your Identities from De-identified Clinical Notes.  Lavender Yao Jiang, Daniel Alexander Alber, Zihao Yang, Karl L. Sangwon, Xujin Chris Liu, Kyunghyun Cho, Eric Karl Oermann. Under resubmission. -->
 
 
-- [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). Lavender Yao Jiang, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
+- [Health system-scale language models are all-purpose prediction engines](https://www.nature.com/articles/s41586-023-06160-y). **Lavender Yao Jiang**, Chris Liu, Mustafa Nasir-Moin, Nima Pour Nejatian, Duo Wang, Anas Abidin, Howard Riina, Ilya Laufer, Paawan Punjabi, Kevin Eaton, Madeline Miceli, Nora C. Kim, Cordelia Orillac, Zane Schnurman, Christopher Livia, Hannah Weiss, David Kurland, Sean Neifert, Yosef Dastagirzada, Douglas Kondziolka, Alexander M Cheung, Grace Yang, Ming Cao, Mona Flores, Anthony B. Costa, Yindalon Aphinyanaphongs, Kyunghyun Cho and Eric Karl Oermann. (Nature)
 
 - [Generalist Foundation Models Are Not Clinical Enough for Hospital Operations](https://arxiv.org/abs/2511.13703).
-Lavender Y. Jiang, Angelica Chen, Xu Han, Xujin Chris Liu, Radhika Dua, Kevin Eaton, Frederick Wolff, Robert Steele, Jeff Zhang, Anton Alyakin, Qingkai Pan, Yanbing Chen, Karl L. Sangwon, Daniel A. Alber, Jaden Stryker, Jin Vivian Lee, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann. In preparation.
+**Lavender Y. Jiang**, Angelica Chen, Xu Han, Xujin Chris Liu, Radhika Dua, Kevin Eaton, Frederick Wolff, Robert Steele, Jeff Zhang, Anton Alyakin, Qingkai Pan, Yanbing Chen, Karl L. Sangwon, Daniel A. Alber, Jaden Stryker, Jin Vivian Lee, Yindalon Aphinyanaphongs, Kyunghyun Cho, Eric Karl Oermann. In preparation.
 
 <!-- - [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047).  Ming Cao¹, Grace Yang¹, **Lavender Yao Jiang**, Xujin Chris Liu, Alexander TM Cheung, David Kurland, Hannah Weiss, Kyunghyun Cho, Eric Oermann. (ML4H 2022)
 
@@ -89,15 +89,17 @@ human-like one-shot perceptual learning effects. Xujin "Chris" Liu, **Yao "Laven
 
 <!-- - NYUTron: Health System-scale Language Models for Clinical Operations: [30-day Readmissions](https://www.nvidia.com/en-us/on-demand/session/gtcspring22-s41717/). Lavender Y. Jiang, Nima P. Nejatian, Anthony B. Costa, Chris X. Liu, Yindalon Aphinyanaphongs, Mona G. Flores, Kyunghyun Cho, Eric K. Oermann. (NVIDIA GTC, 2022) -->
 
-- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). In resubmission.
+- [Language Models Can Guess Your Identities from De-identified Clinical Notes](https://openreview.net/forum?id=pzpHajYa67). **Lavender Yao Jiang**, Daniel Alexander Alber, Zihao Yang, Karl L. Sangwon, Xujin Chris Liu, Kyunghyun Cho, Eric Karl Oermann. In resubmission.
 
-- [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047). Grace Yang, Ming Cao, Lavender Y. Jiang, Xujin C. Liu, Alexander T.M. Cheung, Hannah Weiss, David Kurland, Kyunghyun Cho, Eric K. Oermann. (ML4H 2022)
+- [Language Model Classifier Aligns Better with Physician Word Sensitivity than XGBoost on Readmission Prediction](https://arxiv.org/abs/2211.07047). Grace Yang, Ming Cao, **Lavender Y. Jiang**, Xujin C. Liu, Alexander T.M. Cheung, Hannah Weiss, David Kurland, Kyunghyun Cho, Eric K. Oermann. (ML4H 2022)
 
-- [Generalization in Healthcare AI](https://arxiv.org/abs/2402.10965): Evaluation of a Clinical Large Language Model. Salman Rahman, Lavender Yao Jiang, Saadia Gabriel, Yindalon Aphinyanaphongs, Eric Karl Oermann, Rumi Chunara.
+- [Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model](https://arxiv.org/abs/2402.10965). Salman Rahman, **Lavender Yao Jiang**, Saadia Gabriel, Yindalon Aphinyanaphongs, Eric Karl Oermann, Rumi Chunara.
 
 <!-- This paper has not been published, which I believe is partly due to how it challenges some foundational assumptions of current clinical NLP practice. I still think it raises important questions about how we handle and share de-identified health data, and I invite you to read it and form your own opinion.  -->
 
-- Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, Lavender Y. Jiang, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021.) Patent: System and method for deep learning for tracking cortical spreading depression using eeg (WO2022235467A1).
+- [MedG-KRP: Medical Graph Knowledge Representation Probing](https://arxiv.org/abs/2412.10982). Gabriel R. Rosenbaum, **Lavender Y. Jiang**, Ivaxi Sheth, Jaden Stryker, Anton Alyakin, Daniel Alexander Alber, Nicolas K. Goff, Young Joon Fred Kwon, John Markert, Mustafa Nasir-Moin, Jan Moritz Niehues, Karl L. Sangwon, Eunice Yang, Eric Karl Oermann. ML4H 2024.
+
+- Automated, Scalable and Generalizable Deep Learning for [Tracking Cortical Spreading Depression](https://ieeexplore.ieee.org/document/9441333) Using EEG. Alireza Chamanzar¹, Xujin Liu¹, **Lavender Y. Jiang**, Kimon A. Vogt, José M. F. Moura, Pulkit Grover. (International IEEE/EMBS Conference on Neural Engineering, 2021.) Patent: System and method for deep learning for tracking cortical spreading depression using eeg (WO2022235467A1).
 
 <!-- - [Edge Entropy](https://ieeexplore.ieee.org/document/9443451) as an Indicator of the Effectiveness of GNNs over CNNs for Node Classification. **Lavender Y. Jiang**, John Shi, Mark Cheung, Oren Wright, José M.F. Moura. (Proceeding of [Asilomar Conference on Signals, Systems, and Computers](https://www.asilomarsscconf.org/) 2020) -->
 
@@ -131,7 +133,46 @@ Services
 Teaching 
 ------
 
-1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://www.overleaf.com/read/bdrgqbgspcgm#304c85)
+06/2022 - 05/2025: Research mentor
+
+I scoped and led research projects for 12 students ranging from high school interns to graduate students, guiding them to 4 accepted publications at ACL and ML4H workshops.
+
+- Clinical Model Evaluation: Oversaw the development of new benchmarks for [numerical lab measurements](https://arxiv.org/abs/2408.09621) and [knowledge graph understanding](https://arxiv.org/abs/2412.10982) in LLMs, directly addressing gaps in current clinical AI capabilities. Analyzed the differential [predictive power](https://arxiv.org/abs/2307.07051) of clinical note types and sections to inform data prioritization.
+
+- Model Interpretability: Led research into evaluating the alignment between Transformer [sensitivity patterns with human physicians](https://arxiv.org/abs/2211.07047) and utilizing [correlation priors](https://aclanthology.org/2023.acl-srw.19.pdf) for automated ICD coding.
+
+- Infrastructure & Efficiency: Guided experiments on pretraining dynamics, specifically analyzing the [impact of data packing and shuffling](https://arxiv.org/abs/2408.09621) strategies on model loss.
+
+03/2023 - 05/2025  Teaching Assistant
+
+Taught, graded or tutored Machine Learning (Taught by [Kyunghyun Cho](https://arxiv.org/abs/2505.03861), Rajesh Ranganath, [Mengye Ren](https://nyu-ds1003.github.io/spring2023/#home), Ravid Shwartz-Ziv) and [NLP](https://nyu-cs2590.github.io/fall2023/staff/) (Profs. He He).
+
+- Curriculum Development: Designed Python assignments bridging theoretical proofs with implementation, covering fundamental concepts ([classification](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab2/messmaster_1_annotated.pdf), [backpropagation](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab3/messmaster_2_annotated.pdf)) and modern NLP ([prompt engineering](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec10/sec10.pdf)).
+
+- Teaching: Delivered recitations on [Transformers](https://github.com/nyu-cs2590/course-material/blob/gh-pages/fall2023/section/sec04/EncDec%20Translation.pdf) and ML fundamentals. Achieved top-tier student [evaluations](https://www.law.nyu.edu/academicservices/courseandfacultyevaluations) for subject mastery, organization, and clarity in answering complex technical questions.
+
+- Mentorship: Guided 8 graduate teams through applied NLP capstone projects and supported students with proof-based theoretical concepts.
+
+09/2020 - 12/2020 Section leader and grader for [21-260](https://www.math.cmu.edu/~handron/21_260/index.html) (differential equations) 
+
+Students 
+------
+Student Name | Project Year | Affiliation |
+| :--- | :--- | :--- |
+| **[Luca Ruilin Wang](https://www.linkedin.com/in/ruilin-wang-nyu/)** | 2025 | MLE @ Pieta, NYU Data Science MS '25 |
+| **[Cynthia Yanbing Chen](linkedin.com/in/yanbing-cynthia-chen-9aa61526a/en/)** | 2025 | Penn State Biostatistics PhD '29, NYU Biostatistics MS '25 |
+| **Gabriel R. Rosenbaum** | 2024 | UChicago CS BS '29, Packer Collegiate Institute '25 |
+| **[Kelly Ruiqi Deng](https://www.linkedin.com/in/ruiqideng-kd1030/)** | 2024 | Cornell Tech Health Tech MS '26, NYU CS BA '24 |
+| **[Avery Chi Hang](https://www.linkedin.com/in/avery-hang-1461ab24b/)** | 2024 | Yale Statistics MS '26, NYU Data Science + Math BA '24 |
+| **[Hongyi Zheng](https://www.linkedin.com/in/hongyizheng/)** | 2023 | Quantitative Strategist @ Akuna Capital, NYU Math+CS+DS BA '23 |
+| **[Tracy Zhu](https://www.linkedin.com/in/tracy-zhu-701478188/)** | 2023 | UChicago Statistics MS '25, NYU Data Science + Math BA '23 |
+| **[Gavin Zihao Yang](https://www.linkedin.com/in/zihao-gavin-yang-b865a6223/)** | 2023 | Northeastern CS PhD '29, NYU CS+DS '24 |
+| **[Lucy Wu](https://www.linkedin.com/in/lucy-wu-a19949189/)** | 2023 | Data Scientist @ Microsoft, Columbia Data Science MS '25, NYU DS+CS BA '23 |
+| **[Stephen Zhang](https://www.linkedin.com/in/stephen-zhang-nyu/)** | 2023 | SDE @ Apple, UPenn Data Science MS '25, NYU CS+DS BA '23 |
+| **[Grace Ge’er Yang](https://www.linkedin.com/in/grace-y-033071225/)** | 2022 | Data Scientist @ Databricks, Stanford Data Science MS '25, NYU Math+DS BA '23 |
+| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU Data Science + CS BA '23 |
+
+<!-- 1/2025 - 05/2025 Section leader and grader for NYU DS-GA.1003 [Machine Learning](https://www.overleaf.com/read/bdrgqbgspcgm#304c85)
 (I wrote the lab on [classification](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab2/messmaster_1_annotated.pdf) and [backprop](https://github.com/nyu-dl/DS-GA-1003-Machine-Learning-2025/blob/main/lab3/messmaster_2_annotated.pdf))
 
 1/2024 - 05/2024 Grader for NYU DS-GA.1003 [Machine Learning](https://rajeshhr.github.io/ml-2024/)
@@ -167,4 +208,4 @@ Summer 2022 - Fall 2023: using the [correlation bias](https://aclanthology.org/2
 - Lucy Wu (Data Scientist at Microsoft 25'-present, Colombia DS MS 25', NYU DS+CS BA 23')
 - Stephen Zhang (UPenn DS MS 25', NYU CS+DS BA 23')
 
-09/2020 - 12/2020 Section leader and grader for CMU 21-260 [differential equations](https://www.math.cmu.edu/~handron/21_260/index.html) 
+09/2020 - 12/2020 Section leader and grader for CMU 21-260 [differential equations](https://www.math.cmu.edu/~handron/21_260/index.html)  -->
