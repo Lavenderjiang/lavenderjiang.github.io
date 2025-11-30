@@ -11,7 +11,7 @@ Hi! I'm Lavender Jiang (蒋遥). I am a fifth year Data Science PhD student at N
 
 My research focuses on the science of training domain-specific models, building AI that bridges the gap between Machine Learning theory and real-world clinical deployment. My passion for healthcare was motivated by seeing my grandparents suffer from cancer, which inspires me to make a real-world impact in the field.
 
-⭐🗓️ I'm at **Neurips San Diego Dec 1 - Dec 7** and feel free to [schedule](https://calendar.app.google/Cg93qb7WHGHvXcCJ9) an in-person meeting wth me here!
+⭐🗓️ I'm at **Neurips San Diego Dec 1 - Dec 7** and feel free to [schedule](https://tinyurl.com/lavenderjiang) an in-person meeting wth me here!
 
 Affiliations and Honors
 ------
@@ -120,7 +120,7 @@ Seed Grant Funding Award (Apple Workshop on ML for Health 2024, $25,000). Kyungh
 Services
 ------
 
-- Reviewer for  IEEE TNNLS, Scientific Reports, BMC Health Services Research, ICLR DMLR Workshop 2024, ACL Student Research Workshop 2023, ACL 2023, All Things Attention, AACL-IJCNLP 2022.
+- Reviewer for  IEEE TNNLS, Scientific Reports, BMC Health Services Research, ICLR DMLR Workshop 2024, ACL Student Research Workshop 2023, ACL 2023, All Things Attention.
 
 - Co-organizer for Global AI Frontier Lab Workshop 2025, NYU AI School 2022
 
@@ -160,18 +160,18 @@ Students
 
 | Student Name | Project Year | Affiliation |
 |-------------|--------------|-------------|
-| **[Luca Ruilin Wang](https://www.linkedin.com/in/ruilin-wang-nyu/)** | 2025 | MLE @ Pieta, NYU Data Science MS '25 |
+| **[Luca Ruilin Wang](https://www.linkedin.com/in/ruilin-wang-nyu/)** | 2025 | MLE @ Pieta, NYU DS MS '25 |
 | **[Cynthia Yanbing Chen](https://linkedin.com/in/yanbing-cynthia-chen-9aa61526a/en/)** | 2025 | Penn State Biostatistics PhD '29, NYU Biostatistics MS '25 |
 | **Gabriel R. Rosenbaum** | 2024 | UChicago CS BS '29, Packer Collegiate Institute '25 |
 | **[Kelly Ruiqi Deng](https://www.linkedin.com/in/ruiqideng-kd1030/)** | 2024 | Cornell Tech Health Tech MS '26, NYU CS BA '24 |
-| **[Avery Chi Hang](https://www.linkedin.com/in/avery-hang-1461ab24b/)** | 2024 | Yale Statistics MS '26, NYU Data Science + Math BA '24 |
+| **[Avery Chi Hang](https://www.linkedin.com/in/avery-hang-1461ab24b/)** | 2024 | Yale Statistics MS '26, NYU DS + Math BA '24 |
 | **[Hongyi Zheng](https://www.linkedin.com/in/hongyizheng/)** | 2023 | Quantitative Strategist @ Akuna Capital, NYU Math+CS+DS BA '23 |
-| **[Tracy Zhu](https://www.linkedin.com/in/tracy-zhu-701478188/)** | 2023 | UChicago Statistics MS '25, NYU Data Science + Math BA '23 |
+| **[Tracy Zhu](https://www.linkedin.com/in/tracy-zhu-701478188/)** | 2023 | UChicago Statistics MS '25, NYU DS + Math BA '23 |
 | **[Gavin Zihao Yang](https://www.linkedin.com/in/zihao-gavin-yang-b865a6223/)** | 2023 | Northeastern CS PhD '29, NYU CS+DS BA '24 |
 | **[Lucy Wu](https://www.linkedin.com/in/lucy-wu-a19949189/)** | 2023 | Data Scientist @ Microsoft, Columbia Data Science MS '25, NYU DS+CS BA '23 |
 | **[Stephen Zhang](https://www.linkedin.com/in/stephen-zhang-nyu/)** | 2023 | SDE @ Apple, UPenn Data Science MS '25, NYU CS+DS BA '23 |
 | **[Grace Ge’er Yang](https://www.linkedin.com/in/grace-y-033071225/)** | 2022 | Data Scientist @ Databricks, Stanford Data Science MS '25, NYU Math+DS BA '23 |
-| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU Data Science + CS BA '23 |
+| **[Ming Cao](https://www.linkedin.com/in/ming-chao-a736981b2/)** | 2022 | UPenn Data Science MS '25, NYU DS+CS BA '23 |
 
 <!-- Student Name | Project Year | Affiliation |
 | :--- | :--- | :--- |
